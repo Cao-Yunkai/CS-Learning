@@ -4,6 +4,7 @@ Computer Science learning journey at HWU
 
 ## Current Learning
 
+- University coursework
 - Python
 - Java
 - SQL
