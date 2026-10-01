@@ -34,3 +34,5 @@ float_of_int x /. float_of_int y;;
 
 let add (x,y) (a,b)=
 in (A,B)=simplify (a*y+b*x);;
+
+  
